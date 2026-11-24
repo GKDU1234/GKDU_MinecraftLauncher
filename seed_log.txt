@@ -1,0 +1,4 @@
+[2026-11-23 17:26:57] seedmap seed=112 type=Stronghold
+[2026-11-23 17:26:59] seedmap seed=112 type=Stronghold
+[2026-11-23 17:26:59] seedmap seed=112 type=Stronghold
+[2026-11-23 20:34:34] seedfind hits=200
